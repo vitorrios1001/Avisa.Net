@@ -22,6 +22,7 @@ namespace Avisa.Net
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -30,7 +31,15 @@ namespace Avisa.Net
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-            }               
+            } 
+            else
+            {
+                app.UseExceptionHandler("/Home/Error");
+            }  
+
+            app.UseStaticFiles();
+
+            app.UseSession();            
 
             app.UseMvc(routes =>
             {
@@ -39,7 +48,7 @@ namespace Avisa.Net
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
 
-            app.UseStaticFiles();
+            
 
         }
     }

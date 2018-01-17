@@ -6,9 +6,7 @@ namespace Avisa.Net.Models
 
         public string Cor { get; set; }
 
-        public string Placa { get; set; }
+        public ModeloVeiculo ModeloVeiculo { get; set; }
 
-        public Modelo Modelo { get; set; }
-        
     }
 }

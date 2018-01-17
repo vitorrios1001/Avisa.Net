@@ -1,6 +1,6 @@
 namespace Avisa.Net.Models
 {
-    public class Msg
+    public class Mensagem
     {
         public int Id { get; set; }
         

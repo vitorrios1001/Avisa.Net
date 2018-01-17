@@ -14,7 +14,7 @@ namespace Avisa.Net.Controllers
 
         public IActionResult ListaMensagens()
         {
-            return View();
+            return View("ListaMensagens");
         }        
         
     }
