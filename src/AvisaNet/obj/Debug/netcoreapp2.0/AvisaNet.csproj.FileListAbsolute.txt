@@ -1,0 +1,10 @@
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/bin/Debug/netcoreapp2.0/AvisaNet.deps.json
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/bin/Debug/netcoreapp2.0/AvisaNet.runtimeconfig.json
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/bin/Debug/netcoreapp2.0/AvisaNet.runtimeconfig.dev.json
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/bin/Debug/netcoreapp2.0/AvisaNet.dll
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/bin/Debug/netcoreapp2.0/AvisaNet.pdb
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/obj/Debug/netcoreapp2.0/AvisaNet.csproj.CoreCompileInputs.cache
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/obj/Debug/netcoreapp2.0/AvisaNet.AssemblyInfoInputs.cache
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/obj/Debug/netcoreapp2.0/AvisaNet.AssemblyInfo.cs
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/obj/Debug/netcoreapp2.0/AvisaNet.dll
+/home/vitor/projetosDosGit/tcc/api/src/AvisaNet/obj/Debug/netcoreapp2.0/AvisaNet.pdb
